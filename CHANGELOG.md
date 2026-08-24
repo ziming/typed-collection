@@ -2,6 +2,8 @@
 
 ## Unreleased
 
+## 8.1.0 - 2026-08-25
+
 - Dropped support for Laravel 11
 - Added support for Laravel 13
 
