@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+## 8.1.1 - 2026-08-27
+
+- Fixed `offsetSet()` `$key` annotation 
+  [#39](https://github.com/jeromegamez/typed-collection/pull/39)
+
 ## 8.1.0 - 2026-08-25
 
 - Dropped support for Laravel 11
